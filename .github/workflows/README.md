@@ -1,0 +1,92 @@
+<div align="center">
+  <h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Goel
+</h1>
+
+
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=28&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Enthusiast;Open+Source+Contributor;Full+Stack+Developer" alt="Typing Animation" />
+</p>
+
+  <br/>
+</div>
+
+
+<h3 align="center">📚 B.Tech in Electronics and Communication Engineering (ECE)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Web%20Dev-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Passion-Open%20Source-green?style=flat-square"/>
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 I'm working on AI/ML and full-stack projects</li>
+        <li>🌱 I’m currently exploring advanced NLP and LLM applications</li>
+        <li>🧠 Passionate about clean code, systems thinking, and optimization</li>
+        <li>💬 I enjoy contributing to open-source and learning from others</li>
+      </ul><br>
+      <h4>🤝 Connect with Me</h4>
+      <p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-goel-81aab524a/" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:sarthakgoel536@gmail.com" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" style="margin: 0 10px;"  />
+  </a>
+  <a href="https://instagram.com/_sarthak.goel" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" style="margin: 0 10px;" />
+  </a>
+</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,tailwindcss,js,react,nodejs,git" height="40"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/sarthak536/sarthak536/output/github-contribution-grid-snake.svg" alt="Your GitHub Snake Animation"/>
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak536&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak536&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak536&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<br>
+<p align="center">
+  <em>"The only way to do great work is to love what you do." – Steve Jobs</em>
+</p>
+<br>
+
+---
+
+<div align="center">
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+  <br/>
+</div>
