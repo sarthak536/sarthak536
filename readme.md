@@ -7,8 +7,6 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=28&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Enthusiast;Open+Source+Contributor;Full+Stack+Developer" alt="Typing Animation" />
 </p>
-
-  <br/>
 </div>
 
 
@@ -34,17 +32,25 @@
         <li>💬 I enjoy contributing to open-source and learning from others</li>
       </ul><br>
       <h4>🤝 Connect with Me</h4>
-      <p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-goel-81aab524a/" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 10px;" />
-  </a>
-  <a href="mailto:sarthakgoel536@gmail.com" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" style="margin: 0 10px;"  />
-  </a>
-  <a href="https://instagram.com/_sarthak.goel" title="Instagram">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" style="margin: 0 10px;" />
-  </a>
-</p>
+      <p>
+        <a href="https://www.linkedin.com/in/sarthak-goel-81aab524a/" title="LinkedIn">
+          <span style="display:inline-block;">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
+          </span>
+        </a>
+        &nbsp;&nbsp;
+        <a href="mailto:sarthakgoel536@gmail.com" title="Email">
+          <span style="display:inline-block;">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" />
+          </span>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://instagram.com/_sarthak.goel" title="Instagram">
+          <span style="display:inline-block;">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" />
+          </span>
+        </a>
+      </p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
