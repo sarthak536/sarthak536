@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=28&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Enthusiast;Open+Source+Contributor;Full+Stack+Developer" alt="Typing Animation" />
 </p>
 </div>
-
-
-<h3 align="center">📚 B.Tech in Electronics and Communication Engineering (ECE)</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blueviolet?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Web%20Dev-orange?style=flat-square"/>
@@ -26,20 +22,21 @@
   <tr>
     <td width="60%">
       <ul>
+        <li>📚 B.Tech in Electronics and Communication Engineering (ECE)</li>
         <li>🔭 I'm working on AI/ML and full-stack projects</li>
-        <li>🌱 I’m currently exploring advanced NLP and LLM applications</li>
-        <li>🧠 Passionate about clean code, systems thinking, and optimization</li>
+        <li>🌱 I’m currently exploring advanced NLP and building real-world Web Development applications</li>
+        <li>🧠 Passionate about clean code, systems thinking and optimization</li>
         <li>💬 I enjoy contributing to open-source and learning from others</li>
       </ul><br>
       <h4>🤝 Connect with Me</h4>
       <p>
-        <a href="https://www.linkedin.com/in/sarthak-goel-81aab524a/" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/sarthak-goel-608585319/" title="LinkedIn">
           <span style="display:inline-block;">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
           </span>
         </a>
         &nbsp;&nbsp;
-        <a href="mailto:sarthakgoel536@gmail.com" title="Email">
+        <a href="mailto:sarthakgoel534@gmail.com" title="Email">
           <span style="display:inline-block;">
             <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" />
           </span>
