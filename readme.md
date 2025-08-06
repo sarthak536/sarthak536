@@ -74,7 +74,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthak536&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak536&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak536&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
@@ -93,3 +92,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
   <br/>
 </div>
+
