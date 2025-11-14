@@ -29,25 +29,34 @@
         <li>💬 I enjoy contributing to open-source and learning from others</li>
       </ul><br>
       <h4>🤝 Connect with Me</h4>
-      <p>
-        <a href="https://www.linkedin.com/in/sarthak-goel-608585319/" title="LinkedIn">
-          <span style="display:inline-block;">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
-          </span>
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:sarthakgoel534@gmail.com" title="Email">
-          <span style="display:inline-block;">
-            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" />
-          </span>
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://instagram.com/_sarthak.goel" title="Instagram">
-          <span style="display:inline-block;">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" />
-          </span>
-        </a>
-      </p>
+<p>
+  <a href="https://portfolio-sarthakgoel.vercel.app/" title="Portfolio">
+    <span style="display:inline-block;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" alt="Portfolio" height="40" />
+    </span>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/sarthak-goel-608585319/" title="LinkedIn">
+    <span style="display:inline-block;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
+    </span>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:sarthakgoel534@gmail.com" title="Email">
+    <span style="display:inline-block;">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" />
+    </span>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/_sarthak.goel" title="Instagram">
+    <span style="display:inline-block;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" />
+    </span>
+  </a>
+</p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
@@ -92,4 +101,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
   <br/>
 </div>
+
 
