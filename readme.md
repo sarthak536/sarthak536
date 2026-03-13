@@ -76,6 +76,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sarthak536&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak536&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -99,6 +100,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
   <br/>
 </div>
+
 
 
 
